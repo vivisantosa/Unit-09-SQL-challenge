@@ -1,4 +1,4 @@
-![image](/Resources/Images/download.jpg)<br>
+!<img src="/Resources/Images/download.jpg" width="720">
 
 # Unit-09-SQL-challenge
 Using SQL to create company employee data model system.
@@ -6,7 +6,7 @@ Using SQL to create company employee data model system.
 ## Data Modeling
 Below is the ERD of the tables of HP employees, drawn with "quickdatabasediagrams" from http://www.quickdatabasediagrams.com.
 
-<img src="/Resources/Images/ERD.png" width="480">
+<img src="/Resources/Images/ERD.png" width="720">
 
 ## Data Engineering
 My SQL file to create table schemas for each of the six CSV files is "table schemata.sql"
@@ -27,8 +27,9 @@ My SQL file to answer the questions below is "queries.sql"
 The Jupyer notebook file of "SQL homework.ipynb",
 - Import the SQL database into Pandas. 
 - Create a histogram to visualize the most common salary ranges for employees.
+<img src="/Resources/Images/Histogram.png" width="480">
 - Create a bar chart of average salary by title.
-![image](/Resources/Images/barchart.png) ![image](/Resources/Images/Histogram.png) <br>
+<img src="/Resources/Images/barchart.png" width="480"> <br>
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
