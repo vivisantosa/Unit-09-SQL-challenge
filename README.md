@@ -7,6 +7,8 @@ Using SQL to create company employee data model system.
 Below is the ERD of the tables of HP employees, drawn with "quickdatabasediagrams" from http://www.quickdatabasediagrams.com.
 ![image](/Resources/Images/ERD.png)<br>
 
+<img src="/Resources/Images/ERD.png" width="48">
+
 ## Data Engineering
 My SQL file to create table schemas for each of the six CSV files is "table schemata.sql"
 
@@ -27,7 +29,7 @@ The Jupyer notebook file of "SQL homework.ipynb",
 - Import the SQL database into Pandas. 
 - Create a histogram to visualize the most common salary ranges for employees.
 - Create a bar chart of average salary by title.
-
+![image](/Resources/Images/ERD.png)<br>
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
