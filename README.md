@@ -1,6 +1,6 @@
-!<img src="/Resources/Images/download.jpg" width="720">
-
 # Unit-09-SQL-challenge
+
+<img src="/Resources/Images/download.jpg" width="720">
 Using SQL to create company employee data model system.
 
 ## Data Modeling
