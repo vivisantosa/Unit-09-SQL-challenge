@@ -29,6 +29,8 @@ FROM employees
 JOIN salaries
 ON employees.emp_no = salaries.emp_no;
    ```
+   <img src="/Resources/Images/Screenshot (112).png" width="480">
+   
 - List first name, last name, and hire date for employees who were hired in 1986.
 - List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 - List the department of each employee with the following information: employee number, last name, first name, and department name.
@@ -49,7 +51,7 @@ In this part I provide an evidence for any one who asked to "Search an Id" from 
 
 ## : Epiloque :
 
-The queries in the epilogue produce this result
+The queries in [sql_epilogue.sql](https://github.com/vivisantosa/Unit-09-SQL-challenge/blob/master/sql_epilogue.sql) produce this result
 
 -- how to make table --
 
