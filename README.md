@@ -25,6 +25,7 @@ The data base is called "table schemata.sql"
 
 
 ## Data Analysis
+(https://github.com/vivisantosa/Unit-09-SQL-challenge/blob/master/queries.sql)
 My SQL file to answer the questions below is "queries.sql"
 - List the following details of each employee: employee number, last name, first name, sex, and salary. 
 - List first name, last name, and hire date for employees who were hired in 1986.
