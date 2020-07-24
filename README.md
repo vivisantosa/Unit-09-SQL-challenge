@@ -29,7 +29,7 @@ FROM employees
 JOIN salaries
 ON employees.emp_no = salaries.emp_no;
    ```
-   <img src="/Resources/Images/Screenshot (112).png" width="480">
+   <img src="Screenshot (112).png" width="480">
    
 - List first name, last name, and hire date for employees who were hired in 1986.
 - List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
