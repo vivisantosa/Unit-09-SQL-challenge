@@ -51,7 +51,8 @@ In this part I provide an evidence for any one who asked to "Search an Id" from 
 
 The queries in the epilogue produce this result
 
-< -- how to make table -->
+-- how to make table --
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -72,7 +73,7 @@ The queries in the epilogue produce this result
       <td>e0004</td>
       <td>1963-01-10</td>
       <td>April</td>
-      <td>Foolsday-vivi</td>
+      <td>Foolsday</td>
       <td>F</td>
       <td>1997-02-10</td>
     </tr>
