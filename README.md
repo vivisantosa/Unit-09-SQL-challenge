@@ -53,8 +53,6 @@ In this part I provide an evidence for any one who asked to "Search an Id" from 
 
 The queries in [sql_epilogue.sql](https://github.com/vivisantosa/Unit-09-SQL-challenge/blob/master/sql_epilogue.sql) produce this result
 
--- how to make table --
-
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
