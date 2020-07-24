@@ -18,8 +18,7 @@ Below is the ERD data schema for the tables of HP employees.<br/>
 Physical schema: describes the physical means used to store data. This is concerned with partitions, CPUs, tablespaces, and the like.
 By using the available information a table schema for each of the six CSV files was created, and the data types, primary keys, foreign keys, and constraints also developed. The order of the table is based on the primary, and foreign arrangements. 
 
-
-Click the following link to see the actual schema file(EmployeeSQL/Table schema.sql)
+Click the following link to see the actual schema file(https://github.com/vivisantosa/Unit-09-SQL-challenge/blob/master/table%20schemata.sq)
 
 Based on the schema, My SQL file created 6 tables based on the csv files. We then filled them by exporting the csv data
 The data base is called "table schemata.sql"
