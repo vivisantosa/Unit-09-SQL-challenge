@@ -4,10 +4,23 @@
 Using SQL to create company employee data model system.
 
 ## Data Modeling
-With the help of quick database diagram (http://www.quickdatabasediagrams.com), we designed and drew the schematic data modeling for the HP employee data model system. Below is the ERD data schema for the tables of HP employees.
+Conceptual schema
+
+
+Logical schema: describes the structure of some domain of information. This consists of descriptions of (for example) tables, columns, object-oriented classes, and XML tags. The logical schema and conceptual schema are sometimes implemented as one and the same.
+
+The logical data modeling for the HP employee data model system is designed with the help of quick database diagram (http://www.quickdatabasediagrams.com). Tables are created with their basic information, then primary keys are asiigned, and relationships (secondary keys) are defined.<br/>
+Below is the ERD data schema for the tables of HP employees.<br/>
 <img src="/Resources/Images/ERD.png" width="720">
 
+
 ## Data Engineering
+Physical schema: describes the physical means used to store data. This is concerned with partitions, CPUs, tablespaces, and the like.
+By using the available information a table schema for each of the six CSV files was created, and the data types, primary keys, foreign keys, and constraints also developed. The order of the table is based on the primary, and foreign arrangements. 
+
+
+Click the following link to see the actual schema file(EmployeeSQL/Table schema.sql)
+
 Based on the schema, My SQL file created 6 tables based on the csv files. We then filled them by exporting the csv data
 The data base is called "table schemata.sql"
 
